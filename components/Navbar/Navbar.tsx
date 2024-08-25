@@ -53,7 +53,7 @@ const Navbar = ({ setShowModal }: Props) => {
       {
         innerNav && <div className="w-fit mx-auto text-[#e9cb70] text-lg py-2 px-3 rounded-lg font-semibold hover:bg-navbg-800">
 <button onClick={() => {
-    window.open('https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn', '_blank');
+    window.open('https://coinflip-eth.vercel.app/', '_blank');
 }}>
     Connect Wallet
 </button>
