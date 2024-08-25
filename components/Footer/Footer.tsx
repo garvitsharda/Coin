@@ -25,7 +25,7 @@ const Footer = () => {
         <Image src={logo} width={200} height={100} alt="logo" className="h-10 w-1/2 md:w-[250px] mb-2 md:mb-0" />
 
         <div className="flex items-center justify-center flex-col md:flex-row space-x-2 space-y-2 md:space-y-0">
-          <h3 className="text-[#c1cccf] font-bold text-[1.2rem] md:text-1xl text-center">&copy; 2022 coinflip.com | All Rights Reserved.</h3>
+          <h3 className="text-[#c1cccf] font-bold text-[1.2rem] md:text-1xl text-center">&copy; 2024 Garvit | All Rights Reserved.</h3>
 
           <h3 className="bg-gradient-to-tr from-[#594ff5] to-[#2aa4f4] text-transparent bg-clip-text font-bold text-[1.4rem] md:text-1xl">
             1 SOL = ${solanaRate}
